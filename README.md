@@ -4,11 +4,15 @@ Experiments with the [C4 model](https://c4model.com/).
 
 ## System Context
 
-Shown on this page
+The user operates on the system.
 
 ![System Context](doc/system-context.drawio.svg)
 
 ## Container
+
+Here is a link to the container diagram:
+
+[Container Diagram](src/README.md)
 
 ## Component
 
