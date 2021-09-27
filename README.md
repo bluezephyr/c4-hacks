@@ -4,16 +4,14 @@ Experiments with the [C4 model](https://c4model.com/).
 
 ## System Context
 
-The user operates on the system.
+The bank customer uses the Internet Banking System to view account balances and
+to make payments.
 
 ![System Context](doc/system-context.drawio.svg)
 
-## Container
 
-Here is a link to the container diagram:
+## Internet Banking Containers
 
-[Container Diagram](src/README.md)
+The Internet Banking System is described in more detail in the 
+[Container Diagram](src/README.md).
 
-## Component
-
-## Code
