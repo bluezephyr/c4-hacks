@@ -1,4 +1,4 @@
-# Container Diagram
+# Internet Banking Container Diagram
 
 The Internet banking system contains of the following containers.
 
