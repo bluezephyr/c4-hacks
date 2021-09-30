@@ -6,6 +6,7 @@ The Internet banking system contains of the following containers.
 
 ## Applications
 
-* [Web Application](web-app)
 * [API Application](API)
+* [Web Application](web-app)
+* [Single Page Application](single-page-app)
 * [Mobile App](mobile-app)
