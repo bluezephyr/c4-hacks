@@ -10,8 +10,8 @@ to make payments.
 ![System Context](doc/system-context.drawio.svg)
 
 
-## Internet Banking Containers
+## Internet Banking System Design
 
 The Internet Banking System is described in more detail in the 
-[Container Diagram](src/README.md).
+[Container Diagram](src).
 
